@@ -22,3 +22,6 @@ Please follow this steps:
 2) update Geshin Impact to latest version (option 2) but do not launch it
 3) apply new patch
 To apply or revert patch, right-click on the game icon/banner and select "execute script" --> https://imgur.com/D4jDdPX
+
+### Update Description
+- If you have the game already installed, just uncompress the zip on the drive_c/gi_path, execute script "Unpatch Genshin Impact" and execute script "Patch Genshin Impact" again
