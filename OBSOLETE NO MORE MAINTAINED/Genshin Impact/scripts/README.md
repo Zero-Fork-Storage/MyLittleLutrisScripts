@@ -6,4 +6,4 @@
 - Python 3.7+
 
 ## LICENSE
-(MIT LICENSE)[./LICENSE]
+[MIT LICENSE](./LICENSE)
