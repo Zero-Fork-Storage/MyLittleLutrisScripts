@@ -22,3 +22,12 @@ Please follow this steps:
 2) update Geshin Impact to latest version (option 2) but do not launch it
 3) apply new patch
 To apply or revert patch, right-click on the game icon/banner and select "execute script" --> https://imgur.com/D4jDdPX
+
+### Update notes:
+1) unpatch current game (from lutris `execute script` for example)
+2) run launcher and update the game
+3) close launcher without run the game
+4) download .zip of new pach from here
+5) unzip this file on `WINE_PREFIX/drive_c/gi_patch/`
+6) patch again (from lutris `execute script` for example)
+7) run and play
